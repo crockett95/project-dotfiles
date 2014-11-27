@@ -6,7 +6,6 @@
 *.sublime-*
 
 .git
-node_modules
 lib-cov
 tmp
 temp

@@ -6,6 +6,11 @@
 *.sublime-*
 
 node_modules
+.sass-cache
+.tmp
+bower_components
+vendor
+node_modules
 lib-cov
 tmp
 temp
